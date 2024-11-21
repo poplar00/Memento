@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 2e06cb6c411b1fd4d9328eb031a94ac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3001491096332637060
+    second: Hans - Character Sprite_0
+  - first:
+      213: -3823853789062880127
+    second: Hans - Character Sprite_1
+  - first:
+      213: 8693276839774542390
+    second: Hans - Character Sprite_2
+  - first:
+      213: 7861229981314782350
+    second: Hans - Character Sprite_3
+  - first:
+      213: 4431457349770432526
+    second: Hans - Character Sprite_4
+  - first:
+      213: -4649110625974083966
+    second: Hans - Character Sprite_5
+  - first:
+      213: -5453459013294936949
+    second: Hans - Character Sprite_6
+  - first:
+      213: 346661030323624631
+    second: Hans - Character Sprite_7
+  - first:
+      213: -4176575406723242584
+    second: Hans - Character Sprite_8
+  - first:
+      213: -4449691139383646167
+    second: Hans - Character Sprite_9
+  - first:
+      213: -4271669100089191978
+    second: Hans - Character Sprite_10
+  - first:
+      213: 8494768318859826505
+    second: Hans - Character Sprite_11
+  - first:
+      213: 1355063920265383438
+    second: Hans - Character Sprite_12
+  - first:
+      213: 7024213890705120518
+    second: Hans - Character Sprite_13
+  - first:
+      213: 3673692533790598347
+    second: Hans - Character Sprite_14
+  - first:
+      213: -95225428508718387
+    second: Hans - Character Sprite_15
+  - first:
+      213: -4021289869117431528
+    second: Hans - Character Sprite_16
+  - first:
+      213: 5958162609088229513
+    second: Hans - Character Sprite_17
+  - first:
+      213: 7395037411663221840
+    second: Hans - Character Sprite_18
+  - first:
+      213: 5799698828192022703
+    second: Hans - Character Sprite_19
+  - first:
+      213: 141003746380105383
+    second: Hans - Character Sprite_20
+  - first:
+      213: 3533186617591320427
+    second: Hans - Character Sprite_21
+  - first:
+      213: 1402240261869770385
+    second: Hans - Character Sprite_22
+  - first:
+      213: 4791905260832062642
+    second: Hans - Character Sprite_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hans - Character Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 223
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4839761ef3077a920800000000000000
+      internalID: 3001491096332637060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 223
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18420ed0d31feeac0800000000000000
+      internalID: -3823853789062880127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 223
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a54e01a39b4a870800000000000000
+      internalID: 8693276839774542390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e841be57403b81d60800000000000000
+      internalID: 7861229981314782350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 191
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e005c521bf2bf7d30800000000000000
+      internalID: 4431457349770432526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_5
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 191
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e1259848a0b7fb0800000000000000
+      internalID: -4649110625974083966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 159
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c276bcbeb6154b0800000000000000
+      internalID: -5453459013294936949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 159
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba19e1de569fc400800000000000000
+      internalID: 346661030323624631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 159
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5e0a8cbc2d906c0800000000000000
+      internalID: -4176575406723242584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a5d4fb758f32c0800000000000000
+      internalID: -4449691139383646167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1db23f59bf7b4c0800000000000000
+      internalID: -4271669100089191978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945d1ee57ca73e570800000000000000
+      internalID: 8494768318859826505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 95
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ecd5fb4772ec210800000000000000
+      internalID: 1355063920265383438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dd7d551550b7160800000000000000
+      internalID: 7024213890705120518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 95
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4e79a35e39bf230800000000000000
+      internalID: 3673692533790598347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca47203af0bdaef0800000000000000
+      internalID: -95225428508718387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e0647b228138c0800000000000000
+      internalID: -4021289869117431528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 63
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980f7b44355afa250800000000000000
+      internalID: 5958162609088229513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 31
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05419e6685370a660800000000000000
+      internalID: 7395037411663221840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa082aa2b5bac7050800000000000000
+      internalID: 5799698828192022703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 31
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a64cf60922f4f100800000000000000
+      internalID: 141003746380105383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fc1b25286680130800000000000000
+      internalID: 3533186617591320427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1969f7ab612c57310800000000000000
+      internalID: 1402240261869770385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hans - Character Sprite_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc78353274408240800000000000000
+      internalID: 4791905260832062642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hans - Character Sprite_0: 3001491096332637060
+      Hans - Character Sprite_1: -3823853789062880127
+      Hans - Character Sprite_10: -4271669100089191978
+      Hans - Character Sprite_11: 8494768318859826505
+      Hans - Character Sprite_12: 1355063920265383438
+      Hans - Character Sprite_13: 7024213890705120518
+      Hans - Character Sprite_14: 3673692533790598347
+      Hans - Character Sprite_15: -95225428508718387
+      Hans - Character Sprite_16: -4021289869117431528
+      Hans - Character Sprite_17: 5958162609088229513
+      Hans - Character Sprite_18: 7395037411663221840
+      Hans - Character Sprite_19: 5799698828192022703
+      Hans - Character Sprite_2: 8693276839774542390
+      Hans - Character Sprite_20: 141003746380105383
+      Hans - Character Sprite_21: 3533186617591320427
+      Hans - Character Sprite_22: 1402240261869770385
+      Hans - Character Sprite_23: 4791905260832062642
+      Hans - Character Sprite_3: 7861229981314782350
+      Hans - Character Sprite_4: 4431457349770432526
+      Hans - Character Sprite_5: -4649110625974083966
+      Hans - Character Sprite_6: -5453459013294936949
+      Hans - Character Sprite_7: 346661030323624631
+      Hans - Character Sprite_8: -4176575406723242584
+      Hans - Character Sprite_9: -4449691139383646167
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
