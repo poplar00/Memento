@@ -10,9 +10,7 @@ public class MovementPlayer : MonoBehaviour
     public Animator animator;
     public Tilemap obstacle;
     public LayerMask unmove;
-
-    
-
+    public keyFollower followingKey;
 
     void Start()
     {
