@@ -7,6 +7,7 @@ public class door : MonoBehaviour
     public SpriteRenderer sr;
     public Sprite doorOpen;
     public bool opened, waiting;
+    public BoxCollider2D box;
 
     void Start()
     {
@@ -17,16 +18,17 @@ public class door : MonoBehaviour
     void Update()
     {
         if(waiting){
-            if(Vector3.Distance(thePlayer.followingKey.transform.position, transform.position) < 1f){
+            if(Vector3.Distance(thePlayer.followingKey.transform.position, transform.position) < 2f){
                 waiting = false;
                 opened = true;
                 sr.sprite = doorOpen;
                 thePlayer.followingKey.gameObject.SetActive(false);
                 thePlayer.followingKey = null;
+                Destroy(box);
             }   
         }
 
-        if(opened && Vector3.Distance(thePlayer.transform.position, transform.position) < 2f){
+        if(opened && Vector3.Distance(thePlayer.transform.position, transform.position) < 0.4f){
             SceneManager.LoadSceneAsync("Tutorial_2");
         }
     }
